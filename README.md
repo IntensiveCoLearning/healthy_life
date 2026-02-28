@@ -81,7 +81,9 @@
 | [Yanami-suki](https://github.com/IntensiveCoLearning/healthy_life/blob/main/notes/Yanami-suki.md) | | | | | | | | | | | | | | | | | | | | | |
 | [aiyoudiao](https://github.com/IntensiveCoLearning/healthy_life/blob/main/notes/aiyoudiao.md) | | | | | | | | | | | | | | | | | | | | | |
 | [Karynam2](https://github.com/IntensiveCoLearning/healthy_life/blob/main/notes/Karynam2.md) | | | | | | | | | | | | | | | | | | | | | |
+| [liwnldutng](https://github.com/IntensiveCoLearning/healthy_life/blob/main/notes/liwnldutng.md) | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
