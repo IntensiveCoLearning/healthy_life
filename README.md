@@ -31,6 +31,11 @@
 
 
 
+## 社群
+
+微信群二维码：![微信群二维码](https://github.com/user-attachments/assets/7c367be7-eb0c-4617-a3cd-abf2221c6025)
+
+微信联系人：WzxXw0301
 
 ## 请假规则
 
