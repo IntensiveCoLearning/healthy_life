@@ -78,7 +78,9 @@
 | [meixingyu001-code](https://github.com/IntensiveCoLearning/healthy_life/blob/main/notes/meixingyu001-code.md) | | | | | | | | | | | | | | | | | | | | | |
 | [kvxunz](https://github.com/IntensiveCoLearning/healthy_life/blob/main/notes/kvxunz.md) | | | | | | | | | | | | | | | | | | | | | |
 | [enderzcx](https://github.com/IntensiveCoLearning/healthy_life/blob/main/notes/enderzcx.md) | | | | | | | | | | | | | | | | | | | | | |
+| [Yanami-suki](https://github.com/IntensiveCoLearning/healthy_life/blob/main/notes/Yanami-suki.md) | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
