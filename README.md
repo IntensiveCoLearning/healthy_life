@@ -92,10 +92,11 @@
 | [githubstudy123456](https://github.com/IntensiveCoLearning/healthy_life/blob/main/notes/githubstudy123456.md) | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
 | [747694016-beep](https://github.com/IntensiveCoLearning/healthy_life/blob/main/notes/747694016-beep.md) | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
 | [09zoe91](https://github.com/IntensiveCoLearning/healthy_life/blob/main/notes/09zoe91.md) | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
-| [ziyu777web1](https://github.com/IntensiveCoLearning/healthy_life/blob/main/notes/ziyu777web1.md) | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
+| [ziyu777web1](https://github.com/IntensiveCoLearning/healthy_life/blob/main/notes/ziyu777web1.md) | ⭕️ | ✅ | | | | | | | | | | | | | | | | | | | |
 | [zoeyz3](https://github.com/IntensiveCoLearning/healthy_life/blob/main/notes/zoeyz3.md) | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
 | [bohong65](https://github.com/IntensiveCoLearning/healthy_life/blob/main/notes/bohong65.md) | ⭕️ | ✅ | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
