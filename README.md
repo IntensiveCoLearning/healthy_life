@@ -88,7 +88,7 @@
 | [liwnldutng](https://github.com/IntensiveCoLearning/healthy_life/blob/main/notes/liwnldutng.md) | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | |
 | [wodeche](https://github.com/IntensiveCoLearning/healthy_life/blob/main/notes/wodeche.md) | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | |
 | [fredyuan-beep](https://github.com/IntensiveCoLearning/healthy_life/blob/main/notes/fredyuan-beep.md) | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
-| [loewelong](https://github.com/IntensiveCoLearning/healthy_life/blob/main/notes/loewelong.md) | ✅ | ⭕️ |   | | | | | | | | | | | | | | | | | | |
+| [loewelong](https://github.com/IntensiveCoLearning/healthy_life/blob/main/notes/loewelong.md) | ✅ | ⭕️ | ✅ | | | | | | | | | | | | | | | | | | |
 | [githubstudy123456](https://github.com/IntensiveCoLearning/healthy_life/blob/main/notes/githubstudy123456.md) | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | |
 | [747694016-beep](https://github.com/IntensiveCoLearning/healthy_life/blob/main/notes/747694016-beep.md) | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | |
 | [09zoe91](https://github.com/IntensiveCoLearning/healthy_life/blob/main/notes/09zoe91.md) | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | |
@@ -96,6 +96,7 @@
 | [zoeyz3](https://github.com/IntensiveCoLearning/healthy_life/blob/main/notes/zoeyz3.md) | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | |
 | [bohong65](https://github.com/IntensiveCoLearning/healthy_life/blob/main/notes/bohong65.md) | ⭕️ | ✅ | ✅ | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
