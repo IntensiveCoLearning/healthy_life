@@ -15,8 +15,14 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-03-08
+<!-- DAILY_CHECKIN_2026-03-08_START -->
+打卡
+<!-- DAILY_CHECKIN_2026-03-08_END -->
+
 # 2026-03-06
 <!-- DAILY_CHECKIN_2026-03-06_START -->
+
 早上八点起床，晚上上了健身房团课，现在11点准备睡觉了
 <!-- DAILY_CHECKIN_2026-03-06_END -->
 <!-- Content_END -->
