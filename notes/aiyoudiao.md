@@ -15,6 +15,8 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
-
-
+# 2026-03-10
+<!-- DAILY_CHECKIN_2026-03-10_START -->
+打卡，计划每天俯卧撑和深蹲
+<!-- DAILY_CHECKIN_2026-03-10_END -->
 <!-- Content_END -->
